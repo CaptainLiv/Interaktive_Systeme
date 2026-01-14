@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from 'react';
-import './App.css';
+import './ColorCanvas.css';
 
 // Seeded random number generator (to replicate Java's Random(1))
 class SeededRandom {
